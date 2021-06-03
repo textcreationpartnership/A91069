@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prophesies. The 15. September. 1645.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91069</idno><idno type="EEBO-CITATION">99861483</idno>
+  <idno type="VID">113620</idno>
+  <idno type="EEBO-PROQUEST">2240952798</idno>
+  
+            <idno type="STC">Wing P3676</idno>
+            <idno type="STC">Thomason E339_10</idno>
+            <idno type="STC">ESTC R200857</idno>
+            <idno type="PROQUEST">99861483</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861483e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113620)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E339[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prophesies. The 15. September. 1645.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing; Thomason Catalogue lists under 1645.</note>
+                  <note>Annotation on Thomason copy: "May 30 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:113620:1"/>
+            <pb n="1" facs="tcp:113620:1"/>
+            <head>PROPHESIES.</head>
+            <opener>
+               <dateline>
+                  <date>The 15. September 1645.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He whole Earth is now set to Conspire and Plott one a<g ref="char:EOLhyphen"/>gainst each other, new Conspiracies break out weekly; the danger is great, like to be the utter ruine of some; If there be not a speedy Remedy, <hi>England</hi> will be sore troubled this next Summer, if there be not a removing the <hi>Northern storme,</hi> which secretly threateneth to arise, with the black Clouds of couching Coun<g ref="char:EOLhyphen"/>sells, full of misty Darknesse, cloathing secresies of wrath, and Trouble against <hi>England;</hi> (It's strange, that <hi>Englands</hi> Friends should so craftily and suddenly turn themselves from it;) It is espied, as secret as they are<note n="*" place="margin">That is, they should not doe wrong unto their King, and now Emperiall Soveraigne, C. R. Also wee judge Charitable, That <hi>England</hi> will not doe wrong un<g ref="char:EOLhyphen"/>to him; Therefore the Spirit by us Propounds for them; But if <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gland,</hi> or any Nation, should proffer to hurt their King, then they are accursed, <hi>If with evill they shall touch the LORD'S Anointed. 1</hi> Sam. <hi>9.11.</hi> Psal. <hi>21.8.9, 10, 12.</hi> Psal. <hi>89.23.</hi>
+               </note>
+               <hi>Eng<g ref="char:EOLhyphen"/>land</hi> shall not, and will not doe wrong to the Royall House of <hi>Emperour-CHARLES STƲART,</hi> onely the Mal<g ref="char:EOLhyphen"/>lignant that trouble him and us, shall be brought down, because they Oppose the <hi>Holy Covenant</hi> of <hi>Reformation.</hi>
+            </p>
+            <p>
+               <hi>Scotland,</hi> although one of the <hi>Three</hi>
+               <note n="*" place="margin">2 <hi>Esd.</hi> 12.22, 23, 24. <hi>Dan.</hi> 7.24, 25.</note>
+               <hi>Heads,</hi> and now turning it self about, shall not too much Oppresse <hi>England,</hi> though wee have given them the weapon in their hand, they shall not utterly destroy Us, for wee see and know all their Counsells; wee are as true for Emperour CHARLES STUART, as they can bee, although Mallignant Persons, who never could be truly his friends, (for their evill,) are opposed of us. There is one raised up, that can, and will ere long discover all the Plotts of the Nations, which wee see and know are against Us; There is
+<pb facs="tcp:113620:2"/> no reason why our <hi>English</hi> Nation should be so abused, seeing th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Christ's Court,<note place="margin">
+                  <hi>Micha.</hi> 4.3. <hi>ch.</hi> 5. 4, 5. <hi>Hag.</hi> 2.7.</note> our High Court of Parliament, and the <hi>Reformer,</hi>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> man of <hi>Peace</hi> for all Nations, are lawfully called of Christ out of the <hi>English</hi> House, and behaved our selves humble, loving and faithfull unto our Bre<g ref="char:EOLhyphen"/>thren the <hi>Scotts,</hi> hearing them when they complained, undertaking their Cause for the worke of <hi>Reformation,</hi> as it was our bounden duty, wee did obey. Now therefore, our High Court for our North Dominion, be<g ref="char:EOLhyphen"/>ing truly called in, of, &amp; by the English blood, and Royall Prerogative of our <hi>English Nation;</hi> Therefore our Court of Parliament,<note place="margin">At present now sitting at <hi>rest;</hi> but how soon to be removed to East-South, or High-North, the Lord knoweth.</note> sitting now in Our Citie of <hi>Westminster,</hi> is the High Court for our North Dominion, and shall not be craftily troden downe, see<g ref="char:EOLhyphen"/>ing the <hi>R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmer</hi> is their Sonne and<note n="*" place="margin">Hee is their Servant, if hee finds them true for Reformati<g ref="char:EOLhyphen"/>on, but if they are not true to the Covenant. Then be is free for other Nations,<note place="margin">
+                     <hi>H<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>se.</hi> 10.2, 3, 4. <hi>ch.</hi> 6.6, 7, 8, 9.</note> who shall be found more true for Reform<g ref="char:EOLhyphen"/>ing.</note> Servant, who know<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th by the Spirit of Prophesie, all the Plotts that are a<g ref="char:EOLhyphen"/>gainst us, b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th at home and abroad, and shall and will ere long<note n="[‖]" place="margin">That is, if they are found worthy of private Counsell, and if Christ will let him speak, as be can if he will.</note> discover them, their matter, manner, in turning<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and windings against us; In their Coun<g ref="char:EOLhyphen"/>sells, wee are shewed it all, to discover in due time for God, <hi>Amen.</hi>
+            </p>
+            <p>There are sprung up newly against our English Nation, great Con<g ref="char:EOLhyphen"/>federacies in the North; the Counsell of some very craftily begins to turne them<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves against our Royall Court of <hi>England;</hi>
+               <note place="margin">God causeth his Rod to bud and blossome in secret Coun<g ref="char:EOLhyphen"/>sell, because prid<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hath flourish<g ref="char:EOLhyphen"/>ed, in violence <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d oppressing the Innocent, Poore, and helpe<g ref="char:EOLhyphen"/>less<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Ezek. 7.10, 11.</hi>
+               </note> it shall prev<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>il but for a little time. O <hi>England!</hi> that time is too long, they will doe s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me mischiefe, their Counsells are so ripened: whilst thou, O <hi>England,</hi> hast slept, they have awaked, and watched, but their labour shall be brought to<note n="*" place="margin">Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is, if the Princes, Priest, to and People of England, turning unto the LORD, obey<g ref="char:EOLhyphen"/>ing the Covenant of Reformation, in executing Mercies, being willing to receive the Gospel of Peace unto all; casting away their Hypocrisies; Perfectly Proclaiming <hi>Liberty of Conscience</hi> to the letting goe such Services in State and Church, which goe seeking the LORD. To wit, a <hi>Jew, [Mall. 2.10.]</hi> or <hi>Jewises,</hi> namely a spirituall minded Christian, their Brother; Set those free, or else destruction will be your Ruine. <hi>Jere. 34.9, 10, 11, 12, 15, 16.17, 18, 19, 20.</hi>
+               </note> Nothing whereunto they have Laboured.</p>
+            <pb n="3" facs="tcp:113620:2"/>
+            <p>There will break out an evill in the <hi>North,</hi> ere long againe upon <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> it will not be like the former: Who shall deliver us from Troubles that are comming afresh upon the Earth? Our JEHOVAH is able, and sheweth himself willing.</p>
+            <p>There is the gre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>test Evill comming, that ever was yet upon the earth, in certain yeeres proceeding, appointed for it: There are after this <hi>Michaelmas</hi> now comming, the greatest things to be done in all Na<g ref="char:EOLhyphen"/>tions that ever was yet manifested, (A time of Trouble, such as never was since there was a<note place="margin">
+                  <hi>Dan.</hi> 12.1. <hi>Matt.</hi> 24.21. <hi>Luke.</hi> 21.26.32.22.</note> Nation; Six yeeres after this <hi>Michaelmas,</hi> will manifest the great Power and Glory of God, in rising with a high hand of Judgement against his Enemies, and a High hand of Power and glo<g ref="char:EOLhyphen"/>ry for the Deliverance of <hi>Sion.</hi>
+            </p>
+            <p>The greatest Good that ever was manifested in the Love of God un<g ref="char:EOLhyphen"/>to all his whole Creation, ariseth presently, and meeteth this most greatest of Evills; there are yeeres continuance of conflict between this great Good, and this great Evill; but yet, Woe to the Inhabiters of the Earth, and of the Sea's, for they will be sore troubled; but the In<g ref="char:EOLhyphen"/>habiters of the Heavens in Faith, and truth, who are come out of <hi>Babylon,</hi> they will have cause to Rejoyce spiritually. Note that 6. yeares, begin<g ref="char:EOLhyphen"/>ning at <hi>Michaelmas,</hi> 1645. will bring forth the great signes of our God for <hi>Sions</hi> Deliverance; The Good which doth conflict, and spiritually fight with the Evill, doth promise unto us, that in JEHOVAH'S Power, it will tread downe the Evill, and trample upon it, before 3. yeeres are fully ended, and that for 4. yeeres after, it will spread it self in the glory of it's JEHOVAH, and good Power, so that in the yeer 1652. <hi>Sions</hi> Deliverance will be<note n="*" place="margin">That is, the great Power of our God will be seen in concourse un<g ref="char:EOLhyphen"/>to that Yeere, in the working of things Ʋniversally ever the whole Earth.</note> Glo<g ref="char:EOLhyphen"/>riously manifested, In the first degree, for pas<g ref="char:EOLhyphen"/>sing on in Deliverance.</p>
+            <pb n="4" facs="tcp:113620:3"/>
+            <p>But this is the Circumfluence which JEHOVAH casteth before us, the voice of the <hi>Great Evill</hi> will be heard, crying out unto all Nati<g ref="char:EOLhyphen"/>ons very loud and shrill before 42. Months are ended, after this <hi>Mich<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>elmas.</hi> But the good hasteneth, and will lift up its voice very loud and comfortable, before 10. Moneths are ended, after this <hi>Michaelmas,</hi> 1645. but notwithstanding the Conflict will goe on, (the Good tells us, that hee will prevaile before 18. Moneths are ended;) JEHOVAH our LORD standeth to decide the Case between them.</p>
+            <p>The Evill hath on his side the fulnesse of sinnes, Iniquity, and the Curse, to stand upon his part, in the<note n="‖" place="margin">
+                  <hi>Ezek.</hi> 7.10, 11. <hi>Amos</hi> 3.1, 2, 7, 10, 11. <hi>Hos.</hi> 6.7, 8, 9. <hi>Jere.</hi> 6.26, 27, 28, 29, 30, 31. <hi>Deutr.</hi> 32.19.</note> Violence of the<note n="‖" place="margin">
+                  <hi>Ezek.</hi> 7.10, 11. <hi>Amos</hi> 3.1, 2, 7, 10, 11. <hi>Hos.</hi> 6.7, 8, 9. <hi>Jere.</hi> 6.26, 27, 28, 29, 30, 31. <hi>Deutr.</hi> 32.19.</note> Time, therefore hee cryeth for Increase of Venge<g ref="char:EOLhyphen"/>ance, and prolonging of the time. Therefore judgements having the wickednesse of the wicked in blasphemies against Christ, and Truth in <hi>Antichristian</hi> Ministries, to side with him for totall Destruction; (but JEHOVAH our God doth much oppose him, although the cryes are lowde for Vengeance;) Woe to the wicked, that take part with <hi>Ba<g ref="char:EOLhyphen"/>bylon.</hi>
+            </p>
+            <p>The <hi>Good</hi> standeth up much encouraged to Conflict for a speedy <hi>De<g ref="char:EOLhyphen"/>liverance</hi> of the whole Creation, threatning the Evill, and Triumphing against him, that he will Prevaile with JEHOVAH for his Love and Mercies to the whole <hi>Creation,</hi> to the treading downe Sinne, Curse and Confusion, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd all the power of <hi>Babylon,</hi> and <hi>Antichrist,</hi> threatning evill, and comforting the Friends of <hi>Zion,</hi> in Promising speedily to take away <hi>Tophet,</hi> Tumults, Malice and Wickednesse, and to cut off Warres from off the face of the Earth: The <hi>Good</hi> Promiseth, that before five moneths are fully ended hee will prevaile in the first Incounter in the Conflict against Evill.</p>
+            <p>The Powers that side with the Good, are great; (JEHOVAH harkeneth unto the lowde Cryes of <hi>Good,</hi> for <hi>Wonderfull Mercies,</hi> his <hi>Great Mercies.</hi>
+            </p>
+            <p>(The <hi>Good</hi> hath a Conditionall Promise of Victory,<note place="margin">There is no Absolute Promise to the Saints, that there shall as yet be Peace, because the Earth is full of Antichri<g ref="char:EOLhyphen"/>stianisme, and our God is infinitely provoked to jealousie. <hi>Ezek. 8.3.5.17. Ezek. 14.22.23.</hi>
+               </note> not Absolute as yet.</p>
+            <pb n="5" facs="tcp:113620:3"/>
+            <p>(The <hi>Good</hi> hath the most mighty Sonnes and Daughters of God to stand on his side, for speedy and Present Peace unto the whole Creation, Triumphing for the <hi>Exaltation</hi> of Truth; (Christ the Spirituall <hi>Micha<g ref="char:EOLhyphen"/>ell,</hi> and Captaine over his Saints, is preparing himselfe for the defence of Good, and for his<note place="margin">Yet there is a seeking for Peace. <hi>Dan. 10.21.</hi> ch. <hi>12.1.</hi>
+               </note>
+               <hi>Michaell</hi> his Prince; whom he hath chosen for his Peo<g ref="char:EOLhyphen"/>ple, who houldeth with spirituall <hi>Michael</hi> his LORD CHRIST, in all these things wherein no Mortall else is Illuminated and Confirmed.</p>
+            <p>Blessed are those that take part with JERUSALEM and SION, none knoweth <hi>Mysteriall Secrets</hi> of the LORD, but JEHOVAH Himself, and those his Servants the Prophets; hee walketh according to his good pleasure, His Wayes are Wonderfull, Unsearchable, (His Counsell is in himself,) and of himself; Our God is neere at hand, to come in his Power and Glory; Blessed are those his SAINTS, that watch.</p>
+            <p>
+               <hi>Blessed are those that are for Truth, Mercy, and Peace.</hi>
+            </p>
+            <pb n="6" facs="tcp:113620:4"/>
+            <p>The swords of the <hi>North</hi> are drawne against the <hi>South</hi> of <hi>England,</hi> their<note n="*" place="margin">They endeavour, but it is a Question, whether they can obtain at such their appointed time, but they are wise to observe their best oportunities, for the which they ore sealed in all subtill watchful<g ref="char:EOLhyphen"/>nesse, and their Counsell is of the <hi>LORD,</hi> for judgement against Transgressours, which have sworne falsly, in making a Covenant. <hi>Hos. 10.4, 5.</hi> Jer. <hi>11.9, 10.</hi> chap. <hi>34 18.</hi>
+               </note> Plott is layed, to come against the <hi>South</hi> of <hi>England</hi> the next Sum<g ref="char:EOLhyphen"/>mer; but <hi>England</hi> hath one way left<note n="[¶]" place="margin">That is if they attaine the blessings of the Spirit by <hi>JAH,</hi> as also the Person and Counsell, for <hi>Zions Good;</hi> else the flourishing of some will be but for a short time.</note> them to prevent and bring to nought their secret Conspiracie. O <hi>England,</hi> awake, look to thy self, make use of time; stand well upon thy watch, maintaine thy owne; thou shalt have Counsell ere long to pre<g ref="char:EOLhyphen"/>vent the <hi>North</hi> Conspiracie.</p>
+            <p>Hee that Prophesied of <hi>R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes</hi> destruction, namely a Studient of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight</hi> as he was, he was deceived, JEHOVAH'S Mercies hath Pardoned, but for this none ought to be angry; 'tis the mercies of Om<g ref="char:EOLhyphen"/>nipotent JEHOVAH: In the yeere 1652, the Sea of <hi>Romane Papacie</hi> shall be seen no more, they shall be converted, turned unto Christ, and washed from all their Idolls; this good work appearing sooner, no one, though outwardly never so <hi>Bright,</hi> hath cause to be Angry.</p>
+            <p>
+               <hi>Prophesie.</hi>
+            </p>
+            <p>Shee that Prophesied of <hi>Londons</hi> Destruction, was very confident when she spake the word, as seeing the swords that are drawne now in the North, Pointing at the Citie of <hi>London;</hi> Shee and them are now like to be<note n="*" place="margin">That is, God proffereth mercies, if they will receive them, to make good use th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> time.</note> deceived, both in Prophesie &amp; Plott. <hi>London</hi> shall not be Destroyed, if the <hi>White Stone</hi> stand fast, though her sinnes be great, and the Plott is strong, both at Sea and Land, in great Se<g ref="char:EOLhyphen"/>cresies, couching Counsells, with Clouds as black as <hi>Egypts</hi> Darknesse, and almost fully ready to break forth in fiery storme; O <hi>England</hi> be swift in Counsell, hold out for a time in Battell; Watch well upon thy Guard, Turne thy face towards the <hi>North,</hi> examine well thy pretended Friends; be not secure to trust them.</p>
+            <q>
+               <l>JEHOVAH'S Power in Mercies doth increase,</l>
+               <l>The Time drawes neer for Everlasting Peace.</l>
+            </q>
+            <pb n="7" facs="tcp:113620:4"/>
+            <p>What is the Number of 12. dayes? JEHOVAH can finish great Worke in Three dayes.</p>
+            <p>This in Exposition, 28. of <hi>September,</hi> 1645. By dayes are meant yeers.</p>
+            <p>
+               <hi>Elijahs</hi> Confirmation, by addition on the 28. of <hi>September,</hi> 1645. ex<g ref="char:EOLhyphen"/>pounding for Manifestation concerning our Brethren the <hi>Scotis:</hi> Of whom <hi>Jehovah,</hi> in a Generallitie of Prophesie, toucheth in the first Page, upon the turning of the Head.</p>
+            <p>Our most faithfull Brethren the <hi>Scotts,</hi>
+               <note place="margin">The beleeving <hi>Scotts,</hi> who wiih us seek the LORD in truth of the Everlasting Go<g ref="char:EOLhyphen"/>spel, and stand for the Cove<g ref="char:EOLhyphen"/>nant of the Gospel, and <hi>Ge<g ref="char:EOLhyphen"/>nerall Reformation,</hi> are here spoken of; as for the Mal<g ref="char:EOLhyphen"/>lignant <hi>Scotts, English,</hi> and other Nations, who transgresse against God, and his true Gospel, let them turn from their evill with speed, for the LORD is bathing his sword of vengeance in Heaven, to come downe upon <hi>Idumea.</hi> That is, the People of his Curse to Judgement. <hi>Esay. 34.1, 2, 3, 4, 5, 6, 7, 8.</hi>
+               </note> who are by the <hi>Seer</hi> approved true Cove<g ref="char:EOLhyphen"/>nanters; Those, to wit, our Brethren the <hi>Scotts,</hi> are not spoken of by JEHOVAH, in the first Page: No, they are faithfull, and the most true Covenanters, Precious unto us, as the apple of Our eye.</p>
+            <p>Such our Brethren to their Powers have endeavoured to be our safe<g ref="char:EOLhyphen"/>guard; Their Christian Obedience unto Emperour King <hi>Jesus Christ,</hi> and to Us his Servant of Rulers, and our High Court for Christs Dominion, at <hi>Westminster,</hi> and also for the lawfull Emperour of the <hi>North Dominion,</hi> CHARLES REX, their Obedience in faithfulnesse, is approved of by Christ, JEHOVAH, and his Servant: They are most Royall <hi>Co<g ref="char:EOLhyphen"/>venanters,</hi> Therefore let none who cannot comprehend Prophesie, mis<g ref="char:EOLhyphen"/>construe: Neither let any our Faithfull Brethren the <hi>Scotts</hi> be troubled who are approved <hi>True Reformists:</hi> They are some of CHRISTS and Our best Friends, in opposing the great <hi>Anti-Christ.</hi>
+            </p>
+            <p>Those who are taxed in <hi>Hosea,</hi> for swaring falsly in the <hi>Covenant,</hi> are the Malignant in <hi>Scotland, England,</hi> and <hi>Ireland.</hi> Now therefore let not security turne away our eyes from the <hi>North;</hi> Let us look streight for<g ref="char:EOLhyphen"/>ward on those things comming out of the <hi>North,</hi> towards the <hi>South:</hi> Why should our Faithfull Brethren the <hi>Scots,</hi> secretly have their sides Pierced with the swords of Malignant Neighbours? seeing the <hi>Christian Scott,</hi> the <hi>True Reformist,</hi> the most faithfull <hi>Covenanter,</hi> is so precious and dear unto us in Faithfulnesse of heart, and truth of Love in Christ Jesus, who is Emperour of Heaven and Earth.</p>
+            <pb n="8" facs="tcp:113620:5"/>
+            <p>Wee know and maintaine, that <hi>Charles Rex</hi> is Emperour for the North Dominion, so Chosen of our GOD, to Rule with his Emperiall Fello<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Brethren, and our High Court: but not Chosen to Rule of Himself. The Foure Emperours, are Servants unto Christ, in his High-Court: The Court and they must Rule together in Love, to exalt Christ's Kingdom, and pluck down <hi>Antichrist.</hi>
+            </p>
+            <p>Wee know and see, that 20000. of <hi>Danes, French,</hi> and the like, h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Love conjoyned together, may Trouble <hi>Scotland</hi> next Summer, if the <hi>Sea's</hi> Roare. <hi>Portugall</hi> and <hi>Spaine,</hi> with many more their Friends, are very much in love with each other of late: But wee have seen sometimes the winde to turne about of a sudden, and <hi>Sayles</hi> clap'd downe in great haste.<note n="*" place="margin">England hasten to turne from the Abominations of ly<g ref="char:EOLhyphen"/>ing vanities, in which thou art exercised in forsaking thy owne mercies, else the LORD will take away the defence of his Spirit, which is prepa<g ref="char:EOLhyphen"/>ring to remove, and thou shalt finde thou wantest the Charriots and Horsemen of Israel. <hi>2 Kings 2.12.</hi>
+               </note>
+               <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> watch well toward the <hi>North;</hi> let the Noble <hi>Scott</hi> watch well within his owne Land. Wee know Swords sometime out runne Counsell; they were somewhat nimble, too soon, for some faithfull Friends. Their Counsell is as Blackness, and more horrid. Ere long they thinke to manifest themselves in Triumph.</p>
+            <p>JEHOVAH Calleth for <hi>Reforming,</hi> That hee may give his Blessing for <hi>Unity,</hi> and <hi>Everlasting-Peace.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113620:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
